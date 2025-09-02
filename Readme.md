@@ -7,3 +7,5 @@
 ## [FirstBadVersion](https://leetcode.com/problems/first-bad-version/)
 
 ## [Peak_Element](https://leetcode.com/problems/find-peak-element/)
+
+## [SingleElement](https://leetcode.com/problems/single-element-in-a-sorted-array/)
