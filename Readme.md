@@ -11,3 +11,5 @@
 ## [SingleElement](https://leetcode.com/problems/single-element-in-a-sorted-array/)
 
 ## [First_Last_Element](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
+
+## [Peak_Index](https://leetcode.com/problems/peak-index-in-a-mountain-array)
