@@ -13,3 +13,8 @@
 ## [First_Last_Element](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
 
 ## [Peak_Index](https://leetcode.com/problems/peak-index-in-a-mountain-array)
+
+## [SearchInsertion](https://leetcode.com/problems/search-insert-position)
+
+
+## [Find_K_ClosestElement](https://leetcode.com/problems/find-k-closest-elements/description/)
